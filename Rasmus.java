@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Rasmus {
-    public String hello(){
+    public void hello(){
         System.out.println("Hej Rasmus Tjena");
     }
 }
