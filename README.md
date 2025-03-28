@@ -1,5 +1,6 @@
 # git-workshop-grupp-24
-**Lets Gooo**
+**Lets Gooo **
+**Lets Gooo igen **
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,intellij,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,intellij,visualstudiocode
