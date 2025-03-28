@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        System.out.println("Tjena");
+        Rasmus rasmus = new Rasmus();
+        rasmus.hello();
         Scanner input = new Scanner(System.in);
         System.out.println("Skriv in nåt kul");
         String fun = input.nextLine();
